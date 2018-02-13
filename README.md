@@ -1,32 +1,16 @@
+## ICL Student Leet Code Slutions
+
+This repository is a place for ICL students to put their Leet Code solutions for reference and possible improvement.  The goal is to add our solutions after our weekly Leet Code meetings so those that missed have a reference for what we did.  We will also be updating this repo with the backlog of completed solutions when we have time.
+
+## Directory Structure and Naming Conventions
+
+There are three main directories in this repo: easy, medium, and hard.  As the names suggest, they determine the difficulty of the problem as shown on the Leet Code website.  The solution file only needs to have the solution function and any helper functions needed for the solution to run on Leet Code.  If you want to test a solution, you will have to run it on the Leet Code website for now.  We may add a test suite in the future if we have extra time.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/davideberius/LeetCodeSolutions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
