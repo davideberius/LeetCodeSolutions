@@ -1,6 +1,6 @@
 ## ICL Student Leet Code Slutions
 
-This repository is a place for ICL students to put their Leet Code solutions for reference and possible improvement.  The goal is to add our solutions after our weekly Leet Code meetings so those that missed have a reference for what we did.  We will also be updating this repo with the backlog of completed solutions when we have time.
+This repository is a place for ICL students to put their Leet Code solutions for reference and possible improvement.  The goal is to add our solutions after our weekly Leet Code meetings so those that missed have a reference for what we did.  We will also be updating this repo with the backlog of completed solutions when we have time.  Note: Some of these solutions are our initial attempts and are not great solutions.  Some solutions will have little or no comments.
 
 ## Directory Structure and Naming Conventions
 
